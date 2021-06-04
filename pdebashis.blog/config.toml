@@ -1,0 +1,4 @@
+baseURL = "https://pdebashis.github.io/"
+languageCode = "en-us"
+title = "pdebashis.com"
+theme="hugo-theme-console"
