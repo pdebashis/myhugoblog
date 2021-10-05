@@ -12,4 +12,4 @@ I am inspired by a character named Milo Pressman from the TV show 24. Check him 
 Currently, I'm working on [discorb-monkeygames](https://github.com/pdebashis/discordrb-monkeygames) and [ruby-algorithmic-trading](https://github.com/pdebashis/ruby-algorithmic-trading).
  
 If you want to reach out to me, you can do it via
-[GitHub](https://github.com/pdebashis), [Discord](https://discord.gg/MKFHJwqZ), [Twitch](https://www.twitch.tv/93codemonkey) or [Email](mailto://pdebashis@outlook.com).
+[GitHub](https://github.com/pdebashis), [Discord](https://discord.gg/MKFHJwqZ) or [Twitch](https://www.twitch.tv/93codemonkey).
