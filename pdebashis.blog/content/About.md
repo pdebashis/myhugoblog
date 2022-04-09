@@ -2,8 +2,7 @@
 title: "About"
 date: 2021-06-05T02:47:09+05:30
 ---
-
-My name is <b>Debashis</b>. and I'm a code monkey. I specialize in cloud computing and big data.
+My name is <b>Debashis</b>. and I'm a code monkey. I specialize in cloud computing and big data. In this blog, you will find posts mostly pertaining to those two areas or anything similar.
 
 
 I am inspired by a character named Milo Pressman from the TV show 24. Check him out [here](https://en.wikipedia.org/wiki/Milo_Pressman).
