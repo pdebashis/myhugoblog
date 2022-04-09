@@ -15,7 +15,7 @@ Here is what felt was wrong :
 * Multiple higher level employees are known to yell at people in meetings. Openly hated by employees. 
 * No culture. People don't talk to each other at all. Everyone is cold and unfriendly. 
 * Mass attrition. The implementation department had lost 2/3rd of existing employees in a year. They responded by doing mass hiring but even those new people were noping out after they found out what a nightmare this place was. 
-* The Senior Engineer was barely responsive despite having all the knowledge probably due to his own work pressure. (he did good work, but did not provide any guidance to me and super negative)
+* The Senior Engineer was barely responsive despite having all the knowledge probably due to his own work pressure. (he did good work, but did not provide any guidance to me and was super negative)
  
 I stayed in that job for 2 years , and left. Start-ups aren't worth it if you're not one of the founders or there from the beginning. The chance of getting a proper pay out that is worth the effort you put in is nearly nil. 
 

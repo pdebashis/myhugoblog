@@ -14,4 +14,4 @@ Currently, I'm working on [ruby-algorithmic-trading](https://github.com/pdebashi
 If you want to reach out to me, you can do it via
 [GitHub](https://github.com/pdebashis), [Discord](https://discord.gg/MKFHJwqZ) or [Twitch](https://www.twitch.tv/93codemonkey).
 
-If you would like to support me, Please [buy me a Beer](https://www.buymeacoffee.com/cmonkey)
+If you would like to support me, Please [buy me a Coffee](https://www.buymeacoffee.com/cmonkey)
